@@ -1,0 +1,14 @@
+
+#Django Key Settings
+SECRET_KEY='django-insecure-m%ku%95!)mw%9-%q3216@iq&mmkokh26eg7lw+rq=ppjzzm-+t'
+DEBUG=True
+
+#Django Region Settings
+LANGUAGE_CODE='ko-kr'
+TIME_ZONE='Asia/Seoul'
+
+
+#Redis
+Redis_HOST='localhost'
+REDIS_PORT=6379
+REDIS_DB=0

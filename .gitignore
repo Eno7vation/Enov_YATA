@@ -1,0 +1,16 @@
+db.sqlite3
+.idea
+.vscode
+__pycache__
+__pycache__/
+__pycache__/*
+*.py[cod]
+venvs
+*/migrations
+static/media/*
+django_summernote
+dump.rdb
+.env
+backup/backup
+server/
+templates/

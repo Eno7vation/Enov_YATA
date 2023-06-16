@@ -1,0 +1,35 @@
+The [Enov/YATA] software is licensed under the Affero General Public License v3.0,
+
+which mandates that any user of the software must provide
+
+the complete corresponding source code to any third party to whom the software is distributed.
+
+Additionally, any modifications or derivative works must also be licensed under the same terms.
+
+Any distribution of the software or derivative works must be accompanied by a written offer to provide
+
+the source code to any third party who requests it.
+
+Furthermore, users of the [Enov/YATA] software must acknowledge and
+
+give attribution to all original developers and contributors by providing a list of all contributors and
+
+developers in any documentation or acknowledgments associated with the software or derivative works.
+
+By using or distributing this software,
+
+users agree to comply with the terms of the AGPL license and acknowledge all contributors and
+
+developers who have contributed to the [Enov/YATA] software.
+
+The [Enov/YATA] software is free software and can be redistributed or
+
+modified under the terms of the GNU Affero General Public License version 3 or any later version.
+
+However, the software is provided without any warranty and should not be used commercially.
+
+There is no implied warranty of merchantability or fitness for a particular purpose.
+
+For more details, see the GNU Affero General Public License.
+
+Users should have received a copy of the GNU Affero General Public License along with this program. If not, please visit http://www.gnu.org/licenses/.
