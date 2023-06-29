@@ -2,7 +2,7 @@ Enov YATA 사용 가이드
 (Django를 이용한 카풀 오픈소스 프로젝트)
 =============
 
-## Using Stack List 
+## Use Stack List 
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -140,7 +140,7 @@ DB 가이드
 
 > ```docker image ls```
 
-> ```docker run enov_yata/django -p 8000:8000 -d ```
+> ```docker run -p 8000:8000 -d enov_yata/django ```
 
 ##### 1-1 실행 종료 
 > ```docker ps```
