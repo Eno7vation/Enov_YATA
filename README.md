@@ -2,6 +2,9 @@ Enov YATA 사용 가이드
 (Django를 이용한 카풀 오픈소스 프로젝트)
 =============
 
+## 시연 영상
+[![Video Label](https://i9.ytimg.com/vi_webp/QQBkU0ayfA8/mqdefault.webp?v=64a79f16&sqp=CIS6q6UG&rs=AOn4CLC3QEiHKhfgAtvEkMlEKRxVV2vDBA)](https://youtu.be/QQBkU0ayfA8)
+<br/>
 ## Use Stack List 
 <table><tr><td valign="top" width="33%">
 
@@ -46,11 +49,18 @@ See the [OPEN_SOURCE](OpenSoruce_LICENSE.md) file for license rights and limitat
 * Static <br>
 * Templates <br>
 * Server
+  * Client - Server Architecture 
   * Load Balancer, Proxy improve Source Code with Golang
   * Main Server AA Source Code
   * DB Replication -> Postgresql DB Replication로 검색하시면 나옵니다.
   * CI/CD Pipeline -> Jenkins docker install로 검색하시면 나오고, 제공해드린 Git Actions 그대로 사용하시면 됩니다.
   * Docker file, Kubectl yaml 
+
+## 디자인
+https://www.figma.com/file/gBDXKyEsHgX1iSm2vIt31k/YATA_app?node-id=0-1
+
+## Code
+[https://github.com/Eno7vation/YATA_Release](https://github.com/Eno7vation/Enov_YATA)
 
 ## Nginx 셋팅 관련 자료
 
@@ -62,12 +72,6 @@ See the [OPEN_SOURCE](OpenSoruce_LICENSE.md) file for license rights and limitat
 
 [Nginx 관련 문서](https://couplewith.tistory.com/228) <br/>
 [Goginx 관련 문서](https://dev.to/b0r/implement-reverse-proxy-in-gogolang-2cp4#s1)
-
-## 디자인
-https://www.figma.com/file/gBDXKyEsHgX1iSm2vIt31k/YATA_app?node-id=0-1
-
-## Code
-[https://github.com/Eno7vation/YATA_Release](https://github.com/Eno7vation/Enov_YATA)
 
 개발자
 -------------
